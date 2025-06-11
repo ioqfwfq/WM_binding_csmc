@@ -1,0 +1,3 @@
+feature binding working memory experiment - JZtest / session 3 / 202526_223018 
+
+1.0000 1.4799 1.0000 0.0000 NaN NaN NaN 4.0000 1.0000 NaN NaN 4027.0000 1019.0000 1.0000 1.0000 0.0000 0.0000 0.0000 

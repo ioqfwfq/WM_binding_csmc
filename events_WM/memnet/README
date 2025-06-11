@@ -1,0 +1,23 @@
+MemNet: A model of image memorability trained on LaMem
+
+The provided model is a fine-tuned version of AlexNet trained on a combination of object and 
+scene categories. The provided model is in the Caffe format (http://caffe.berkeleyvision.org/).
+Using 10 crops per image, the model achieves a rank correlation of 0.64 on the test data. Note
+that the specific model provided here has been trained on the first train/test split of the data.
+
+We also provide the mean file and the train/deploy prototxts of the model. Please read the LICENSE
+file to better understand the terms of use of this model. In short, the model is provided for
+academic research and non-commercial purposes only.
+
+Please cite the following paper if you use this model in your work:
+  Understanding and Predicting Image Memorability at a Large Scale
+  Aditya Khosla, Akhil S. Raju, Antonio Torralba and Aude Oliva
+  International Conference on Computer Vision (ICCV), 2015
+
+The bibtex file is available via the project website: http://memorability.csail.mit.edu
+
+For any questions or comments, please contact Aditya Khosla (khosla@csail.mit.edu).
+
+Copyright (c) 2015 Aditya Khosla
+
+

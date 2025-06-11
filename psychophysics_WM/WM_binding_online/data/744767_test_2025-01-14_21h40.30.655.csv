@@ -1,0 +1,6 @@
+﻿options,Instruction.started,Instruction.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,Instruction_0.started,Instruction_0.stopped,Practice.started,Practice.stopped,key_resp1_pra.keys,key_resp1_pra.rt,key_resp1_pra.duration,Start.started,Start.stopped,pic1,pic2,probe_cat,probe_text,trial.started,trial.stopped,key_resp1.keys,key_resp1.rt,key_resp1.duration,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,first_cat,second_cat,probe_pic,probe_validity,first_pic_idx,second_pic_idx,trials.order
+"["" 0 "","" 1 "","" 5 ""]",0.0005,0.6696,744767,001,2025-01-14_21h40.30.655,test,2024.2.4,MacIntel,119.047619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,744767,001,2025-01-14_21h40.30.655,test,2024.2.4,MacIntel,119.047619,0.6699,1.1198,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,744767,001,2025-01-14_21h40.30.655,test,2024.2.4,MacIntel,119.047619,,,28.0961,33.2692,j,0.1508,,33.2695,34.503,,,,,,,,,,,,,,,,,,,,,
+,,,744767,001,2025-01-14_21h40.30.655,test,2024.2.4,MacIntel,119.047619,,,,,,,,,,stimuli/Car/20.jpg,stimuli/Person/14.jpg,people,"second picture, how many people?",34.5146,41.9529,j,0.9094,,0,0,0,0,1,4,1,2,1,20,14,
+,,,744767,001,2025-01-14_21h40.30.655,test,2024.2.4,MacIntel,119.047619,,,,,,,,,,stimuli/Car/14.jpg,stimuli/Car/18.jpg,cars,"second picture, how many cars?",41.9549,,,,,0,1,1,1,1,4,4,2,1,14,18,287

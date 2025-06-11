@@ -1,0 +1,242 @@
+NetCom Log File Opened - File Name:  MatlabNetComLogfile.txt
+Time Opened: (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28
+NetCom Version 2.0.1
+
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to initialize Message Client connection.  serverName: localhost, portNumber: 26200
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to create Client Socket
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Client Socket created successfully
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to request information about our connection.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Request for information was successful.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to establish a connection to our server.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Connection successfully established
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Message Client successfully initialized
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::ShutdownClient() - Attempting to Shutdown Message Client
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::ShutdownClient() - Attempting to Close Message Client Socket
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::ShutdownClient() - Attempt to Close Message Client Socket was successful
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to initialize Message Client connection.  serverName: localhost, portNumber: 26201
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to create Client Socket
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Client Socket created successfully
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to request information about our connection.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Request for information was successful.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Attempting to establish a connection to our server.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Connection successfully established
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NetworkNodeClient::InitializeClient() - Message Client successfully initialized
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NodeConnectionClient::AddStreamObject() - Notice, Attempting to add object to our stream list, objectName: CSC138, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 09:33:28 - NodeConnectionClient::AddStreamObject() - Notice, Attempt to add stream object to our list was successful.  objectName: CSC138, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC138, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Stream Object count has been decremented.  count: 0, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Stream Object count was zero, therefore object has been removed.  objectName: CSC138, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NetworkNodeClient::ShutdownClient() - Attempting to Shutdown Message Client
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC129, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC129, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC130, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC130, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC131, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC131, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC132, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:03 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC132, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC133, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC133, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC134, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC134, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC135, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC135, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC136, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC136, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC137, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC137, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC138, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC138, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC139, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC139, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC140, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC140, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC141, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC141, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC142, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC142, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC143, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC143, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC144, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC144, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC145, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC145, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC146, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC146, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC147, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC147, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC148, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC148, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC149, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC149, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC150, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC150, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC151, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC151, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC152, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC152, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC153, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC153, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC154, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC154, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC155, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC155, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC156, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC156, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC157, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC157, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC158, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC158, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC159, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC159, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC160, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC160, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC161, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC161, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC162, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC162, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC163, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC163, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC164, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC164, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC165, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC165, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC166, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC166, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC167, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC167, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC168, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC168, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC169, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC169, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC170, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC170, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC171, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC171, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC172, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC172, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC173, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC173, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC174, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC174, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC175, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC175, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC176, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC176, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC177, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC177, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC178, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC178, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC179, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC179, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC180, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC180, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC181, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC181, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC182, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC182, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC183, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC183, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC184, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC184, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC185, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC185, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC186, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC186, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC187, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC187, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC188, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC188, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC189, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC189, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC190, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC190, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC191, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC191, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC192, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC192, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC193, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC193, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC194, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC194, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC195, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC195, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC196, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC196, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC197, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC197, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC198, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC198, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC199, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC199, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC200, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC200, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC201, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC201, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC202, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC202, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC203, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC203, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC204, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC204, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC205, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC205, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC206, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC206, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC207, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC207, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC208, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC208, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC225, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC225, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC226, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC226, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC227, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC227, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC228, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC228, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC229, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC229, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC230, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC230, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC231, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC231, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC232, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC232, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC233, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC233, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC234, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC234, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC235, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC235, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC236, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC236, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC237, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC237, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC238, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC238, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC239, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC239, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: CSC240, mStreamType CSC.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: CSC240, mStreamType CSC.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Notice, Attempting to remove object from our stream list, objectName: Events, mStreamType Event.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::RemoveStreamObject() - Error, Attempt to remove object from our list failed, the object was not found.  objectName: Events, mStreamType Event.
+-* ERROR *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NetworkNodeClient::CloseStream() - Error, invalid parameter, unrecognized data type.  dataType: AcqSource
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - mDmaProcessor thread has been terminated successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NodeConnectionClient::CloseServerStream() - WaitForSingleObject for mDmaProcessor thread completed successfully.
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NetworkNodeClient::ShutdownClient() - Attempting to Close Message Client Socket
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NetworkNodeClient::ShutdownClient() - Attempt to Close Message Client Socket was successful
+-* NOTICE *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NetworkNodeClient::ShutdownClient() - Attempting to Shutdown Message Client
+-* WARNING *- (mm/dd/yyyy): 02/25/2025 At Time: 10:48:04 - NetworkNodeClient::ShutdownClient() - Unable to Close Message Client, Client has not yet been initialized
+Log File Closed - End of File
+

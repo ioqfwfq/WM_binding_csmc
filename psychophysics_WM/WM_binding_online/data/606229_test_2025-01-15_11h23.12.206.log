@@ -1,0 +1,237 @@
+13.2793 	INFO 	Loaded monitor calibration from ['2024_12_17 11:56']
+13.4643 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x1601cb850>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x1601cb8b0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x160190640>, multiSample=False, name='window1', numSamples=2, pos=[276.0, 139.0], screen=0, size=array([1600, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.4643 	EXP 	window1: backgroundImage = ''
+13.4643 	EXP 	window1: backgroundFit = 'none'
+13.4740 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4746 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4751 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4758 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4769 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4775 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4778 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4779 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4781 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4786 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4791 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4794 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4797 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4801 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4807 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4811 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4815 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4819 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4824 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4835 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4840 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4845 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4850 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4854 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4862 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4864 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.4892 	DEBUG 	Upload of Texture Font fontname complete
+13.4929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4936 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.4952 	DEBUG 	Upload of Texture Font fontname complete
+14.1825 	INFO 	keyboard.Keyboard is using ptb backend.
+14.3801 	INFO 	keyboard.Keyboard is using ptb backend.
+14.5647 	INFO 	keyboard.Keyboard is using ptb backend.
+14.7481 	INFO 	keyboard.Keyboard is using ptb backend.
+14.9319 	INFO 	keyboard.Keyboard is using ptb backend.
+15.1155 	INFO 	keyboard.Keyboard is using ptb backend.
+15.1155 	EXP 	test: status = STARTED
+15.1235 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1245 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1253 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1263 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1270 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1272 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1277 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1282 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1292 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1295 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1307 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1315 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1329 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1340 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1351 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1356 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1363 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1370 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1403 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1410 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1419 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1424 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.1447 	DEBUG 	Upload of Texture Font fontname complete
+15.1506 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1511 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.1528 	DEBUG 	Upload of Texture Font fontname complete
+15.1582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1583 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.1600 	DEBUG 	Upload of Texture Font fontname complete
+15.1756 	EXP 	Created keyG = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='keyG.png', interpolate=True, mask=None, maskParams=None, name='keyG', opacity=1, ori=0.0, pos=array([-0.25,  0.  ]), size=array([0.15, 0.15]), texRes=128.0, units='height', win=Window(...))
+15.1766 	EXP 	Created keyH = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image='keyH.png', interpolate=True, mask=None, maskParams=None, name='keyH', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.15, 0.15]), texRes=128.0, units='height', win=Window(...))
+15.1776 	EXP 	Created keyJ = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, image='keyJ.png', interpolate=True, mask=None, maskParams=None, name='keyJ', opacity=1, ori=0.0, pos=array([0.25, 0.  ]), size=array([0.15, 0.15]), texRes=128.0, units='height', win=Window(...))
+15.1803 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1804 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.1822 	DEBUG 	Upload of Texture Font fontname complete
+15.1927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1928 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.1944 	DEBUG 	Upload of Texture Font fontname complete
+15.2428 	EXP 	Created pactice_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.025, italic=False, languageStyle='LTR', name='pactice_text', opacity=1, ori=0.0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='Practice trial', units='height', win=Window(...), wrapWidth=1)
+15.2445 	EXP 	Created fixation_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+15.2484 	EXP 	Created stim1_pra = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim1_pra', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.4]), texRes=128, units='height', win=Window(...))
+15.2507 	EXP 	Created delay1_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='delay1_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='HOLD', units='height', win=Window(...), wrapWidth=1)
+15.2531 	EXP 	Created stim2_pra = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim2_pra', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.4]), texRes=128, units='height', win=Window(...))
+15.2540 	EXP 	Created delay2_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='delay2_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='HOLD', units='height', win=Window(...), wrapWidth=1)
+15.2544 	EXP 	Created probe_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='probe_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2547 	EXP 	Created option1_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option1_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2550 	EXP 	Created option2_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-9.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option2_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2553 	EXP 	Created option3_pra = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-10.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option3_pra', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2583 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2591 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2599 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.2616 	DEBUG 	Upload of Texture Font fontname complete
+15.2657 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+15.2681 	EXP 	Created stim1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim1', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.4]), texRes=128, units='height', win=Window(...))
+15.2690 	EXP 	Created delay1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='delay1', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='HOLD', units='height', win=Window(...), wrapWidth=1)
+15.2713 	EXP 	Created stim2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.6, 0.4]), texRes=128, units='height', win=Window(...))
+15.2721 	EXP 	Created delay2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='delay2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='HOLD', units='height', win=Window(...), wrapWidth=1)
+15.2725 	EXP 	Created probe = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='probe', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2728 	EXP 	Created option1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-7.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option1', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2731 	EXP 	Created option2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2734 	EXP 	Created option3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-9.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='option3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2761 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2763 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.2780 	DEBUG 	Upload of Texture Font fontname complete
+0.0228 	EXP 	instruction_txt_pre: autoLog = True
+0.0228 	EXP 	instruction_txt_up: autoLog = True
+0.0228 	EXP 	instruction_txt_bot: autoLog = True
+0.0228 	EXP 	textboxG: autoLog = True
+0.0228 	EXP 	textboxH: autoLog = True
+0.0228 	EXP 	textboxJ: autoLog = True
+0.0228 	EXP 	instruction_txt: autoLog = True
+0.0228 	EXP 	endmsg: autoLog = True
+0.0520 	INFO 	Keyboard events cleared
+0.0519 	EXP 	instruction_txt_pre: autoDraw = True
+8.5016 	DATA 	Keypress: space
+8.5056 	INFO 	Keyboard events cleared
+8.5055 	EXP 	instruction_txt_pre: autoDraw = False
+8.5055 	EXP 	instruction_txt_up: autoDraw = True
+8.5055 	EXP 	instruction_txt_bot: autoDraw = True
+8.5055 	EXP 	keyG: autoDraw = True
+8.5055 	EXP 	keyH: autoDraw = True
+8.5055 	EXP 	keyJ: autoDraw = True
+8.5055 	EXP 	textboxG: autoDraw = True
+8.5055 	EXP 	textboxH: autoDraw = True
+8.5055 	EXP 	textboxJ: autoDraw = True
+10.2041 	DEBUG 	Read excel file with openpyxl: conditions_practice.xlsx
+10.2045 	EXP 	Imported conditions_practice.xlsx as conditions, 6 conditions, 6 params
+10.2053 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'first_cat': 1, 'second_cat': 2, 'probe_pic': 1, 'probe_validity': 0, 'first_pic_idx': 15, 'second_pic_idx': 21, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+10.2474 	DATA 	Keypress: space
+10.2492 	EXP 	instruction_txt_up: autoDraw = False
+10.2492 	EXP 	instruction_txt_bot: autoDraw = False
+10.2492 	EXP 	keyG: autoDraw = False
+10.2492 	EXP 	keyH: autoDraw = False
+10.2492 	EXP 	keyJ: autoDraw = False
+10.2492 	EXP 	textboxG: autoDraw = False
+10.2492 	EXP 	textboxH: autoDraw = False
+10.2492 	EXP 	textboxJ: autoDraw = False
+10.2492 	EXP 	stim1_pra: image = 'stimuli/Person/15.jpg'
+10.2492 	EXP 	stim2_pra: image = 'stimuli/Animal/21.jpg'
+10.2492 	EXP 	probe_pra: height = 0.05
+10.2492 	EXP 	probe_pra: height = 0.05
+10.2492 	EXP 	probe_pra: height = 0.05
+10.2492 	EXP 	probe_pra: text = 'First picture, how many animals?'
+10.2492 	EXP 	option1_pra: foreColor = <psychopy.colors.Color: (0.0, 0.8, 0.0, 1.0)>
+10.2492 	EXP 	option1_pra: height = 0.1
+10.2492 	EXP 	option1_pra: height = 0.1
+10.2492 	EXP 	option1_pra: height = 0.1
+10.2492 	EXP 	option1_pra: text = ' 0 '
+10.2492 	EXP 	option2_pra: foreColor = <psychopy.colors.Color: (0.0, 0.0, 0.8, 1.0)>
+10.2492 	EXP 	option2_pra: height = 0.1
+10.2492 	EXP 	option2_pra: height = 0.1
+10.2492 	EXP 	option2_pra: height = 0.1
+10.2492 	EXP 	option2_pra: text = ' 1 '
+10.2492 	EXP 	option3_pra: foreColor = <psychopy.colors.Color: (0.8, 0.0, 0.0, 1.0)>
+10.2492 	EXP 	option3_pra: height = 0.1
+10.2492 	EXP 	option3_pra: height = 0.1
+10.2492 	EXP 	option3_pra: height = 0.1
+10.2492 	EXP 	option3_pra: text = ' 5 '
+10.2492 	EXP 	pactice_text: autoDraw = True
+10.2492 	EXP 	fixation_pra: autoDraw = True
+11.1982 	EXP 	stim1_pra: autoDraw = True
+11.2493 	EXP 	fixation_pra: autoDraw = False
+12.1899 	EXP 	stim1_pra: autoDraw = False
+12.1899 	EXP 	delay1_pra: autoDraw = True
+13.1899 	EXP 	delay1_pra: autoDraw = False
+13.1899 	EXP 	stim2_pra: autoDraw = True
+14.1899 	EXP 	stim2_pra: autoDraw = False
+14.1899 	EXP 	delay2_pra: autoDraw = True
+15.1904 	INFO 	Keyboard events cleared
+15.1904 	EXP 	delay2_pra: autoDraw = False
+15.1904 	EXP 	probe_pra: autoDraw = True
+15.1904 	EXP 	option1_pra: autoDraw = True
+15.1904 	EXP 	option2_pra: autoDraw = True
+15.1904 	EXP 	option3_pra: autoDraw = True
+16.1541 	DATA 	Keypress: space
+16.8253 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'first_cat': 2, 'second_cat': 3, 'probe_pic': 2, 'probe_validity': 0, 'first_pic_idx': 29, 'second_pic_idx': 18, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+16.8593 	DATA 	Keypress: j
+16.8616 	EXP 	pactice_text: autoDraw = False
+16.8616 	EXP 	fixation_pra: autoDraw = False
+16.8616 	EXP 	stim1_pra: autoDraw = False
+16.8616 	EXP 	delay1_pra: autoDraw = False
+16.8616 	EXP 	stim2_pra: autoDraw = False
+16.8616 	EXP 	delay2_pra: autoDraw = False
+16.8616 	EXP 	probe_pra: autoDraw = False
+16.8616 	EXP 	option1_pra: autoDraw = False
+16.8616 	EXP 	option2_pra: autoDraw = False
+16.8616 	EXP 	option3_pra: autoDraw = False
+16.8616 	EXP 	stim1_pra: image = 'stimuli/Animal/29.jpg'
+16.8616 	EXP 	stim2_pra: image = 'stimuli/Food/18.jpg'
+16.8616 	EXP 	probe_pra: height = 0.05
+16.8616 	EXP 	probe_pra: height = 0.05
+16.8616 	EXP 	probe_pra: height = 0.05
+16.8616 	EXP 	probe_pra: text = 'Second picture, how many animals?'
+16.8616 	EXP 	option1_pra: foreColor = <psychopy.colors.Color: (0.0, 0.8, 0.0, 1.0)>
+16.8616 	EXP 	option1_pra: text = ' 0 '
+16.8616 	EXP 	option2_pra: foreColor = <psychopy.colors.Color: (0.0, 0.0, 0.8, 1.0)>
+16.8616 	EXP 	option2_pra: text = ' 1 '
+16.8616 	EXP 	option3_pra: foreColor = <psychopy.colors.Color: (0.8, 0.0, 0.0, 1.0)>
+16.8616 	EXP 	option3_pra: text = ' 5 '
+16.8616 	EXP 	pactice_text: autoDraw = True
+16.8616 	EXP 	fixation_pra: autoDraw = True
+17.2867 	DATA 	Keypress: h
+17.6949 	DATA 	Keypress: g
+17.6958 	DATA 	Keypress: h
+17.8243 	EXP 	stim1_pra: autoDraw = True
+17.8660 	EXP 	fixation_pra: autoDraw = False
+18.2875 	DATA 	Keypress: escape
+18.4179 	EXP 	test: status = STOPPED
+18.4218 	EXP 	pactice_text: autoDraw = False
+18.4218 	EXP 	stim1_pra: autoDraw = False
+18.4233 	EXP 	test: status = STOPPED
+18.4272 	INFO 	saved data to '/Users/jundazhu/WM_binding_pilot/WM_binding_online/data/606229_test_2025-01-15_11h23.12.206.csv'
+18.4291 	INFO 	saved data to /Users/jundazhu/WM_binding_pilot/WM_binding_online/data/606229_test_2025-01-15_11h23.12.206.psydat
+18.4631 	DEBUG 	Saving data for test ExperimentHandler
+18.4667 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.4668 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.4668 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.4668 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.4668 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+18.4668 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
