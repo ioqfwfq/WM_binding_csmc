@@ -1,0 +1,26 @@
+# Ignore SVN metadata
+**/.svn/
+
+
+.venv/
+
+# Ignore specific model file
+events_WM/memnet/memnet.caffemodel
+
+# Ignore Python/R/Matlab cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.rds
+*.mat
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings and swap files
+.vscode/
+*.swp
+
+# Optional: ignore compiled binaries or temp logs
+*.exe
+*.log
+*.bak
