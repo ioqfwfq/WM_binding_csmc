@@ -1,7 +1,7 @@
 # Ignore SVN metadata
 **/.svn/
 
-
+# Ignore .venv
 .venv/
 
 # Ignore specific model file
