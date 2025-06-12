@@ -6,8 +6,8 @@ This repository contains the code and analysis for a Working Memory Binding rese
 
 The repository is organized into two main components:
 
-### 1. Neural Analysis (`events_WM/`)
-Contains code and data for neural analysis, including:
+### 1. Analysis (`events_WM/`)
+Contains code and data for behavioral and neural analysis, including:
 - MATLAB scripts for neural data processing and analysis
 - Jupyter notebooks for visualization and advanced analysis
 - Neural recording data and results

@@ -12,7 +12,7 @@ Write-Host "`n=== Pulling latest from Git ==="
 cd $gitRoot
 $gitPull = git pull
 if ($LASTEXITCODE -ne 0) {
-    Write-Host "❌ Git pull failed. Aborting sync."
+    Write-Host " Git pull failed. Aborting sync."
     exit 1
 }
 
@@ -25,7 +25,7 @@ robocopy $srcEvents $dstEvents /MIR /XD ".git" ".svn" ".venv"
 robocopy $srcPsy $dstPsy /MIR /XD ".git" ".svn" ".venv"
 
 
-Write-Host "`n✅ Sync complete. Launching TortoiseSVN Commit dialogs..."
+Write-Host "` Sync complete. Launching TortoiseSVN Commit dialogs..."
 
 # Open TortoiseSVN commit dialogs directly
 Start-Process "TortoiseProc.exe" "/command:commit /path:`"$dstEvents`""
