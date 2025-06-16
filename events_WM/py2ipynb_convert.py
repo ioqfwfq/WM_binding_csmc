@@ -2,8 +2,8 @@ import nbformat
 import re
 from pathlib import Path
 
-py_file = 'neural_delay_distractor_cleaned.py'
-nb_file = 'neural_delay_distractor_cleaned.ipynb'
+py_file = 'time_resolved_selectivity_notebook.py'
+nb_file = 'neural_time_resolved_selectivity.ipynb'
 
 # Read the Python script
 py = Path(py_file).read_text(encoding='utf-8')
